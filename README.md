@@ -10,8 +10,8 @@
 ## Provided Link
 
 - repo action -->> [repo action](https://github.com/sultan-elayan/basic-auth/actions)
-- PR -->> []()
-- heroku deployment -->> []()
+- PR -->> [PR](https://github.com/sultan-elayan/basic-auth/pull/1)
+- heroku deployment -->> [heroku deployment](https://sultan-basic-auth.herokuapp.com/)
 
 
 ## MUL
